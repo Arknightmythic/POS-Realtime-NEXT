@@ -12,3 +12,12 @@ export const INITIAL_STATE_LOGIN_FORM = {
     _form: [],
   },
 };
+
+
+
+export const INITIAL_STATE_PROFILE = {
+  id:'',
+  name:'',
+  role:'',
+  avatar_url:''
+}
